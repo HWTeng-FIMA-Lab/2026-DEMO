@@ -8,7 +8,9 @@
 | 2 | BTC EDA.ipynb | Elvis: EDA of BTC data |
 | 3 | BTC GARCH.ipynb | Plot the conditional volatility |
 
-## 2. List of functions
+## 2. List of functions: Your own defined functions 
+
+
 
 | Index | Function                      | Description                                                         |
 |-------|-------------------------------|---------------------------------------------------------------------|
